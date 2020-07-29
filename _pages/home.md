@@ -14,8 +14,10 @@ post_date: 2020-04-13 11:18:54
 			<a href="#" role="button">
 						Upcoming events
 					</a>
-			<a href="#" role="button">
-						About Us
+			<a href="http://18.204.15.73/about/" role="button">
+						<form action="https://google.com">
+    <input type="submit" value="About US" />
+</form>
 					</a>
 			<h2><a href="/services/#service-1">One plus</a></h2>		
 			<h2><a href="/services/#service-2">Apple</a></h2>		
