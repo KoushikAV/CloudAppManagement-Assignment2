@@ -11,7 +11,7 @@ post_date: 2020-04-13 11:18:54
 <h2>explore the world of events</h2>		
 			<h1>CONFRENZO</h1>		
 		<p>Nothing more exciting than meeting new people, hearing their stories and getting inspired</p>		
-			<a href="#" role="button">
+			<a href="http://18.204.15.73/categories/" role="button">
 						Upcoming events
 					</a>
 			<a href="http://18.204.15.73/about/" role="button">
