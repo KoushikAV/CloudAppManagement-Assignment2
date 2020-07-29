@@ -45,7 +45,7 @@ Contact<br>
 				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4d9d9662" data-elementor-lightbox-title="mountain-and-lake-at-sunset-135157.jpg" href="http://18.204.15.73/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157.jpg"><img width="768" height="512" src="http://18.204.15.73/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157-768x512.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157-768x512.jpg 768w, http://18.204.15.73/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157-300x200.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157-1024x682.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px"></a></figure>
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"vivid-cyan-blue","textColor":"very-dark-gray"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-very-dark-gray-color has-background has-vivid-cyan-blue-background-color" rel="http://18.204.15.73/login/"></a></div>
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"very-dark-gray","borderRadius":26,"gradient":"luminous-vivid-amber-to-luminous-vivid-orange"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-very-dark-gray-color has-background has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background" style="border-radius:26px" rel="http://18.204.15.73/login/"></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
