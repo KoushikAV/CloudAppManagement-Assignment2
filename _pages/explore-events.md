@@ -4,7 +4,7 @@ post_title: Confrenzo
 author: BINOY GEORGE
 post_excerpt: ""
 layout: page
-permalink: http://18.204.15.73/performers/
+permalink: http://18.204.15.73/explore-events/
 published: true
 post_date: 2020-07-22 17:31:53
 ---
