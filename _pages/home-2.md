@@ -26,6 +26,7 @@ post_date: 2020-07-30 14:29:43
 			<a href="#" role="button">
 						Book Tickets
 					</a>
+										<img width="1024" height="683" src="http://18.204.15.73/wp-content/uploads/2020/07/photo-of-people-watching-a-concert-2747449-1024x683.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/photo-of-people-watching-a-concert-2747449-1024x683.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/photo-of-people-watching-a-concert-2747449-300x200.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/photo-of-people-watching-a-concert-2747449-768x512.jpg 768w, http://18.204.15.73/wp-content/uploads/2020/07/photo-of-people-watching-a-concert-2747449-1536x1025.jpg 1536w, http://18.204.15.73/wp-content/uploads/2020/07/photo-of-people-watching-a-concert-2747449.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h2>Create your own Events</h2>		
 		<p>Creating events is like creating memories for you lifetime which will help you to remember what you have achieved in your life</p>		
 			<a href="#" role="button">
