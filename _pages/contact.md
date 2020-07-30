@@ -19,14 +19,7 @@ post_date: 2020-04-13 11:18:48
 			<h3>Email</h3>		
 					<ul>
 							<li >
-					<a href="mailto:info@example.com">						
-										info@example.com
-											</a>
-									</li>
-								<li >
-					<a href="mailto:support@example.com">						
-										support@example.com
-											</a>
+										ConferenzoTeam@conferenzo.ie
 									</li>
 						</ul>
 			<h3>Business Hours</h3>		
