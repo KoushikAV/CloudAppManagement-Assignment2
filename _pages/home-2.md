@@ -24,7 +24,7 @@ post_date: 2020-07-30 14:29:43
 						Learn More
 					</a>
 										<img width="512" height="288" src="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg 512w, http://18.204.15.73/wp-content/uploads/2020/07/apple-launch-300x169.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" />											
-			<h5>Walking Holidays</h5><p>Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris inistra possedit.</p>		
+			<h5>Apple Event</h5><p>Explore Apple products at launch in their spectacular cupertino Office</p>		
 			<a href="#" role="button">
 						Learn More
 					</a>
