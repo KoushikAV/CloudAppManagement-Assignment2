@@ -10,13 +10,7 @@ permalink: http://18.204.15.73/home-2/
 published: true
 post_date: 2020-07-30 14:29:43
 ---
-<a href="http://18.204.15.73/contact/" role="button">
-						Contact Us
-					</a>
-			<a href="http://18.204.15.73/login/" role="button">
-						Login
-					</a>
-			<h3>Explore the world of events</h3>		
+<h3>Explore the world of events</h3>		
 			<h1>CONFRENZO</h1>		
 			<a href="http://18.204.15.73/Explore%20events/" role="button">
 						Explore Events
