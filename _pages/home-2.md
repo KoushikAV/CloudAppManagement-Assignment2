@@ -12,7 +12,7 @@ post_date: 2020-07-30 14:29:43
 ---
 <h3>Explore the world of events</h3>		
 			<h1>CONFRENZO</h1>		
-			<a href="http://18.204.15.73/performers/" role="button">
+			<a href="http://18.204.15.73/Explore%20events/" role="button">
 						Explore Events
 					</a>
 			<h2>Upcoming Events</h2>		
