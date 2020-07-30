@@ -1,6 +1,6 @@
 ---
 ID: 555
-post_title: Confrenzo
+post_title: Let's Confrenzo People
 author: Koushik A V
 post_excerpt: ""
 layout: page
