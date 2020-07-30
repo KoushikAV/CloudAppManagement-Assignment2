@@ -26,16 +26,4 @@ post_date: 2020-04-13 11:18:50
 			<a href="#" role="button">
 						Register
 					</a>
-										<img width="480" height="320" src="http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it.jpg 480w, http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it-300x200.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />											
-			<h2>F.A.Q.</h2>		
-		Lorem ipsum dolor sit amet.		
-												<a href="">Occaecati simili terafvd que?</a>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-												<a href="">Massa quosoluta yrvagsv aja?</a>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-												<a href="">Nam error corrupssa, suspendisse pv ehicula eleifend?</a>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-												<a href="">Doloremque placeat iaculis, minim adipisicing?</a>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-												<a href="">Voluptates omnis quasi do esse qui?</a>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+										<img width="480" height="320" src="http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it.jpg 480w, http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it-300x200.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />
