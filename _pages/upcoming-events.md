@@ -1,6 +1,6 @@
 ---
 ID: 32
-post_title: Upcoming Events
+post_title: Upcoming Events!!
 author: koushik babu
 post_excerpt: ""
 layout: page
