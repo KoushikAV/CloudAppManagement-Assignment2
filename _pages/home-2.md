@@ -15,8 +15,6 @@ post_date: 2020-07-30 14:29:43
 			<a href="http://18.204.15.73/performers/" role="button">
 						Explore Events
 					</a>
-										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/quote-1.png" title="" alt="" />											
-		"Nothing is beautiful than meeting new peoples"		
 			<h2>Upcoming Events</h2>		
 										<img width="1600" height="838" src="http://18.204.15.73/wp-content/uploads/2020/07/google-launch.jpeg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/google-launch.jpeg 1600w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-300x157.jpeg 300w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1024x536.jpeg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-768x402.jpeg 768w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1536x804.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />											
 			<h5>Google I/O </h5><p>Explore the Google products at launch in their office at California. </p>		
