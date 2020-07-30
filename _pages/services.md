@@ -8,3 +8,34 @@ permalink: http://18.204.15.73/services/
 published: true
 post_date: 2020-04-13 11:18:50
 ---
+<h1>Events Around you</h1>		
+			<h2>Google I/O</h2>		
+		<p>Explore the Google products at launch in their office at California.</p>		
+			<a href="#" role="button">
+						Register
+					</a>
+										<img width="1024" height="536" src="http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1024x536.jpeg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1024x536.jpeg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-300x157.jpeg 300w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-768x402.jpeg 768w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1536x804.jpeg 1536w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="512" height="288" src="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg 512w, http://18.204.15.73/wp-content/uploads/2020/07/apple-launch-300x169.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" />											
+			<h2>Apple</h2>		
+		<p>Explore Apple products at launch in their spectacular cupertino Office</p>		
+			<a href="#" role="button">
+						Register
+					</a>
+			<h2>Samsung Unpacked</h2>		
+		<p>Take a chance to join Samsung in unveiling their all new Note device along with other smart accessories at launch coming Aug 5,2020</p>		
+			<a href="#" role="button">
+						Register
+					</a>
+										<img width="480" height="320" src="http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it.jpg 480w, http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it-300x200.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />											
+			<h2>F.A.Q.</h2>		
+		Lorem ipsum dolor sit amet.		
+												<a href="">Occaecati simili terafvd que?</a>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Massa quosoluta yrvagsv aja?</a>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Nam error corrupssa, suspendisse pv ehicula eleifend?</a>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Doloremque placeat iaculis, minim adipisicing?</a>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Voluptates omnis quasi do esse qui?</a>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
