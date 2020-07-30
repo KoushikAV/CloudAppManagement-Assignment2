@@ -1,7 +1,7 @@
 ---
 ID: 555
 post_title: Confrenzo
-author: BINOY GEORGE
+author: Koushik A V
 post_excerpt: ""
 layout: page
 permalink: http://18.204.15.73/explore-events/
