@@ -8,7 +8,7 @@ permalink: http://18.204.15.73/upcoming-events/
 published: true
 post_date: 2020-04-13 11:18:50
 ---
-<h1>Events Around you</h1>		
+<h1>Events Around You</h1>		
 			<h2>Google I/O</h2>		
 		<p>Explore the Google products at launch in their office at California.</p>		
 			<a href="#" role="button">
