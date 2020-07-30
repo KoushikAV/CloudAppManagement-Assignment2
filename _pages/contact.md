@@ -28,10 +28,7 @@ post_date: 2020-04-13 11:18:48
 										Monday — Friday 9am – 5pm
 									</li>
 								<li >
-										Saturday — 10am – 3pm
-									</li>
-								<li >
-										Sunday — Closed
+										Saturday & Sunday  — Closed
 									</li>
 						</ul>
 			<h2>Send Us a Message</h2>		
