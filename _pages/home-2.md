@@ -18,12 +18,12 @@ post_date: 2020-07-30 14:29:43
 										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/quote-1.png" title="" alt="" />											
 		<p>"Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris."</p><p>- Adam Sendler</p>		
 			<h2>Upcoming Events</h2>		
-										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/hiking-v1.jpg" title="" alt="" />											
-			<h5>Everest Camp Trek</h5><p>Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris inistra possedit.</p>		
+										<img width="1600" height="838" src="http://18.204.15.73/wp-content/uploads/2020/07/google-launch.jpeg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/google-launch.jpeg 1600w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-300x157.jpeg 300w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1024x536.jpeg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-768x402.jpeg 768w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1536x804.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />											
+			<h5>Google I/O </h5><p>Explore the Google products at launch in their office at California. </p>		
 			<a href="#" role="button">
 						Learn More
 					</a>
-										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/walking-v1.jpg" title="" alt="" />											
+										<img width="512" height="288" src="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg 512w, http://18.204.15.73/wp-content/uploads/2020/07/apple-launch-300x169.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" />											
 			<h5>Walking Holidays</h5><p>Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris inistra possedit.</p>		
 			<a href="#" role="button">
 						Learn More
