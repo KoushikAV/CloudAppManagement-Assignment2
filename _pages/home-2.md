@@ -29,6 +29,6 @@ post_date: 2020-07-30 14:29:43
 										<img width="1024" height="1024" src="http://18.204.15.73/wp-content/uploads/2020/07/78789824-create-memories-inspirational-poster-1024x1024.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/78789824-create-memories-inspirational-poster-1024x1024.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/78789824-create-memories-inspirational-poster-300x300.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/78789824-create-memories-inspirational-poster-150x150.jpg 150w, http://18.204.15.73/wp-content/uploads/2020/07/78789824-create-memories-inspirational-poster-768x768.jpg 768w, http://18.204.15.73/wp-content/uploads/2020/07/78789824-create-memories-inspirational-poster.jpg 1300w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h2>Create your own Events</h2>		
 		<p>Creating events is like creating memories for you lifetime which will help you to remember what you have achieved in your life</p>		
-			<a href="http://18.204.15.73/create-your-events/" role="button">
+			<a href="http://18.204.15.73/login/" role="button">
 						Create Memories
 					</a>
