@@ -12,8 +12,8 @@ post_date: 2020-07-30 14:29:43
 ---
 <h3>Explore the world of events</h3>		
 			<h1>CONFRENZO</h1>		
-			<a href="#" role="button">
-						Learn More
+			<a href="http://18.204.15.73/performers/" role="button">
+						Explore Events
 					</a>
 										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/quote-1.png" title="" alt="" />											
 		<p>"Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris."</p><p>- Adam Sendler</p>		
