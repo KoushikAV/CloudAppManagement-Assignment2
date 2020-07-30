@@ -10,20 +10,20 @@ permalink: http://18.204.15.73/home-2/
 published: true
 post_date: 2020-07-30 14:29:43
 ---
-<h3>Explore The Colourful World</h3>		
-			<h1>A Wonderful Gift</h1>		
+<h3>Explore the world of events</h3>		
+			<h1>CONFRENZO</h1>		
 			<a href="#" role="button">
 						Learn More
 					</a>
-										<img width="200" height="154" src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/quote-1.png" alt="" />											
+										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/quote-1.png" title="" alt="" />											
 		<p>"Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris."</p><p>- Adam Sendler</p>		
 			<h2>Upcoming Events</h2>		
-										<img width="644" height="402" src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/hiking-v1.jpg" alt="" srcset="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/hiking-v1.jpg 644w, https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/hiking-v1-300x187.jpg 300w, https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/hiking-v1-400x250.jpg 400w" sizes="(max-width: 644px) 100vw, 644px" />											
+										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/hiking-v1.jpg" title="" alt="" />											
 			<h5>Everest Camp Trek</h5><p>Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris inistra possedit.</p>		
 			<a href="#" role="button">
 						Learn More
 					</a>
-										<img width="644" height="402" src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/walking-v1.jpg" alt="" srcset="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/walking-v1.jpg 644w, https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/walking-v1-300x187.jpg 300w, https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/walking-v1-400x250.jpg 400w" sizes="(max-width: 644px) 100vw, 644px" />											
+										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2020/01/walking-v1.jpg" title="" alt="" />											
 			<h5>Walking Holidays</h5><p>Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris inistra possedit.</p>		
 			<a href="#" role="button">
 						Learn More
@@ -38,7 +38,7 @@ post_date: 2020-07-30 14:29:43
 			<a href="#" role="button">
 						Learn More
 					</a>
-										<img width="379" height="218" src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/snow.jpg" alt="" srcset="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/snow.jpg 379w, https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/snow-300x173.jpg 300w" sizes="(max-width: 379px) 100vw, 379px" />											
-										<img width="378" height="385" src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/image-1.jpg" alt="" srcset="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/image-1.jpg 378w, https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/image-1-295x300.jpg 295w" sizes="(max-width: 378px) 100vw, 378px" />											
-										<img width="378" height="385" src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/snow-1.jpg" alt="" srcset="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/snow-1.jpg 378w, https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/snow-1-295x300.jpg 295w" sizes="(max-width: 378px) 100vw, 378px" />											
-										<img width="379" height="218" src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/mountain-3.jpg" alt="" srcset="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/mountain-3.jpg 379w, https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/mountain-3-300x173.jpg 300w" sizes="(max-width: 379px) 100vw, 379px" />
+										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/snow.jpg" title="" alt="" />											
+										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/image-1.jpg" title="" alt="" />											
+										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/snow-1.jpg" title="" alt="" />											
+										<img src="https://websitedemos.net/outdoor-adventure-02/wp-content/uploads/sites/351/2018/11/mountain-3.jpg" title="" alt="" />
