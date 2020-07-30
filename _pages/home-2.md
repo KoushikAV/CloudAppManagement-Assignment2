@@ -26,10 +26,10 @@ post_date: 2020-07-30 14:29:43
 			<a href="#" role="button">
 						Book Tickets
 					</a>
-			<h2>Explore The World</h2>		
-		<p>Diremit mundi mare undae nunc mixtam tanto sibi. Nubes unda concordi. Fert his. Recessit mentes praecipites locum caligine sui egens erat. Silvas caeli regna.</p>		
+			<h2>Create your own Events</h2>		
+		<p>Creating events is like creating memories for you lifetime which will help you to remember what you have achieved in your life</p>		
 			<a href="#" role="button">
-						Learn More
+						Create Memories
 					</a>
 			<h2>Upcoming Tours & Destination</h2>		
 		<p>Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris. Sinistra possedit litora ut nabataeaque. Setucant coepyterunt perveniunt animal! Concordi aurea nabataeaque seductaque constaque cepit sublime flexi nullus.</p>		
