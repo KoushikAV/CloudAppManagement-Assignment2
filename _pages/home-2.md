@@ -21,12 +21,12 @@ post_date: 2020-07-30 14:29:43
 										<img width="1600" height="838" src="http://18.204.15.73/wp-content/uploads/2020/07/google-launch.jpeg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/google-launch.jpeg 1600w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-300x157.jpeg 300w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1024x536.jpeg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-768x402.jpeg 768w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1536x804.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />											
 			<h5>Google I/O </h5><p>Explore the Google products at launch in their office at California. </p>		
 			<a href="#" role="button">
-						Learn More
+						Book Tickets
 					</a>
 										<img width="512" height="288" src="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg 512w, http://18.204.15.73/wp-content/uploads/2020/07/apple-launch-300x169.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" />											
 			<h5>Apple Event</h5><p>Explore Apple products at launch in their spectacular cupertino Office</p>		
 			<a href="#" role="button">
-						Learn More
+						Book Tickets
 					</a>
 			<h2>Explore The World</h2>		
 		<p>Diremit mundi mare undae nunc mixtam tanto sibi. Nubes unda concordi. Fert his. Recessit mentes praecipites locum caligine sui egens erat. Silvas caeli regna.</p>		
