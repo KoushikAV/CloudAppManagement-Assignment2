@@ -9,4 +9,4 @@ published: true
 post_date: 2020-07-30 22:48:23
 ---
 <h1>Register with Us!!!</h1>		
-										<img width="512" height="256" src="http://18.204.15.73/wp-content/uploads/2020/07/Register.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/Register.jpg 512w, http://18.204.15.73/wp-content/uploads/2020/07/Register-300x150.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" />
+										<img width="1024" height="550" src="http://18.204.15.73/wp-content/uploads/2020/07/gdpr-agreement-privacy-3518253-1024x550.jpg" alt="gdpr, agreement, privacy" srcset="http://18.204.15.73/wp-content/uploads/2020/07/gdpr-agreement-privacy-3518253-1024x550.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/gdpr-agreement-privacy-3518253-300x161.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/gdpr-agreement-privacy-3518253-768x413.jpg 768w, http://18.204.15.73/wp-content/uploads/2020/07/gdpr-agreement-privacy-3518253.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />
