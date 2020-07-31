@@ -8,8 +8,6 @@ permalink: http://18.204.15.73/login/
 published: true
 post_date: 2020-07-21 05:49:52
 ---
-
-
 <div class="form">
       
       <ul class="tab-group">
