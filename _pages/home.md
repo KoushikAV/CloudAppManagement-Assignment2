@@ -16,7 +16,7 @@ post_date: 2020-07-30 14:29:43
 						Explore Events
 					</a>
 			<h2>Upcoming Events</h2>		
-										<img width="1280" height="850" src="http://18.204.15.73/wp-content/uploads/2020/07/bar-ipad-mockup-621033.jpg" alt="bar, ipad, mockup" srcset="http://18.204.15.73/wp-content/uploads/2020/07/bar-ipad-mockup-621033.jpg 1280w, http://18.204.15.73/wp-content/uploads/2020/07/bar-ipad-mockup-621033-300x199.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/bar-ipad-mockup-621033-1024x680.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/bar-ipad-mockup-621033-768x510.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />											
+										<img width="1280" height="720" src="http://18.204.15.73/wp-content/uploads/2020/07/google-social-networks-3d-1762248.jpg" alt="google, social networks, 3d" srcset="http://18.204.15.73/wp-content/uploads/2020/07/google-social-networks-3d-1762248.jpg 1280w, http://18.204.15.73/wp-content/uploads/2020/07/google-social-networks-3d-1762248-300x169.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/google-social-networks-3d-1762248-1024x576.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/google-social-networks-3d-1762248-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />											
 			<h5>Google I/O </h5><p>Explore the Google products at launch in their office at California. </p>		
 			<a href="#" role="button">
 						Book Tickets
