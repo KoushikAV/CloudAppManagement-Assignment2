@@ -16,12 +16,12 @@ post_date: 2020-07-30 14:29:43
 						Explore Events
 					</a>
 			<h2>Upcoming Events</h2>		
-										<img width="1600" height="838" src="http://18.204.15.73/wp-content/uploads/2020/07/google-launch.jpeg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/google-launch.jpeg 1600w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-300x157.jpeg 300w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1024x536.jpeg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-768x402.jpeg 768w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1536x804.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />											
+										<img width="2560" height="1707" src="http://18.204.15.73/wp-content/uploads/2020/07/pexels-lucian-petronel-potlog-3566191-scaled.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/pexels-lucian-petronel-potlog-3566191-scaled.jpg 2560w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-lucian-petronel-potlog-3566191-300x200.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-lucian-petronel-potlog-3566191-1024x683.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-lucian-petronel-potlog-3566191-768x512.jpg 768w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-lucian-petronel-potlog-3566191-1536x1024.jpg 1536w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-lucian-petronel-potlog-3566191-2048x1365.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />											
 			<h5>Google I/O </h5><p>Explore the Google products at launch in their office at California. </p>		
 			<a href="#" role="button">
 						Book Tickets
 					</a>
-										<img width="512" height="288" src="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg 512w, http://18.204.15.73/wp-content/uploads/2020/07/apple-launch-300x169.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" />											
+										<img width="1024" height="731" src="http://18.204.15.73/wp-content/uploads/2020/07/pexels-pixabay-207691-1024x731.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/pexels-pixabay-207691-1024x731.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-pixabay-207691-300x214.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-pixabay-207691-768x548.jpg 768w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-pixabay-207691-1536x1097.jpg 1536w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-pixabay-207691-2048x1462.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h5>Apple Event</h5><p>Explore Apple products at launch in their spectacular cupertino Office</p>		
 			<a href="#" role="button">
 						Book Tickets
