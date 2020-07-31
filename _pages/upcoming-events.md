@@ -8,15 +8,15 @@ permalink: http://18.204.15.73/upcoming-events/
 published: true
 post_date: 2020-04-13 11:18:50
 ---
-<h1>Let's Conferenzo People!!!                       
+<h1>Let's Conferenzo People                        
 </h1>		
 			<h2>Google I/O</h2>		
 		<p>Explore the Google products at launch in their office at California.</p>		
 			<a href="#" role="button">
 						Register
 					</a>
-										<img width="1024" height="536" src="http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1024x536.jpeg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1024x536.jpeg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-300x157.jpeg 300w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-768x402.jpeg 768w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch-1536x804.jpeg 1536w, http://18.204.15.73/wp-content/uploads/2020/07/google-launch.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" />											
-										<img width="512" height="288" src="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/apple-launch.jpg 512w, http://18.204.15.73/wp-content/uploads/2020/07/apple-launch-300x169.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" />											
+										<img width="1024" height="576" src="http://18.204.15.73/wp-content/uploads/2020/07/google-social-networks-3d-1762248-1024x576.jpg" alt="google, social networks, 3d" srcset="http://18.204.15.73/wp-content/uploads/2020/07/google-social-networks-3d-1762248-1024x576.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/google-social-networks-3d-1762248-300x169.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/google-social-networks-3d-1762248-768x432.jpg 768w, http://18.204.15.73/wp-content/uploads/2020/07/google-social-networks-3d-1762248.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="1024" height="682" src="http://18.204.15.73/wp-content/uploads/2020/07/smartphone-cellphone-apple-i-phone-1894723-1024x682.jpg" alt="smartphone, cellphone, apple i phone" srcset="http://18.204.15.73/wp-content/uploads/2020/07/smartphone-cellphone-apple-i-phone-1894723-1024x682.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/smartphone-cellphone-apple-i-phone-1894723-300x200.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/smartphone-cellphone-apple-i-phone-1894723-768x512.jpg 768w, http://18.204.15.73/wp-content/uploads/2020/07/smartphone-cellphone-apple-i-phone-1894723.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h2>Apple</h2>		
 		<p>Explore Apple products at launch in their spectacular cupertino Office</p>		
 			<a href="#" role="button">
@@ -27,4 +27,4 @@ post_date: 2020-04-13 11:18:50
 			<a href="#" role="button">
 						Register
 					</a>
-										<img width="480" height="320" src="http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it.jpg 480w, http://18.204.15.73/wp-content/uploads/2020/07/Samsung-Galaxy-Note-20-Unpacked-event-what-devices-to-expect-and-how-to-watch-it-300x200.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />
+										<img width="1024" height="576" src="http://18.204.15.73/wp-content/uploads/2020/07/mobile-smart-phone-samsung-galaxy-2262928-1024x576.jpg" alt="mobile, smart phone, samsung galaxy" srcset="http://18.204.15.73/wp-content/uploads/2020/07/mobile-smart-phone-samsung-galaxy-2262928-1024x576.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/mobile-smart-phone-samsung-galaxy-2262928-300x169.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/mobile-smart-phone-samsung-galaxy-2262928-768x432.jpg 768w, http://18.204.15.73/wp-content/uploads/2020/07/mobile-smart-phone-samsung-galaxy-2262928.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />
