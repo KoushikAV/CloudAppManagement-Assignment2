@@ -16,7 +16,7 @@ post_date: 2020-07-30 14:29:43
 						Explore Events
 					</a>
 			<h2>Upcoming Events</h2>		
-										<img width="2560" height="1708" src="http://18.204.15.73/wp-content/uploads/2020/07/pexels-deepanker-verma-1482061-scaled.jpg" alt="" srcset="http://18.204.15.73/wp-content/uploads/2020/07/pexels-deepanker-verma-1482061-scaled.jpg 2560w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-deepanker-verma-1482061-300x200.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-deepanker-verma-1482061-1024x683.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-deepanker-verma-1482061-768x512.jpg 768w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-deepanker-verma-1482061-1536x1025.jpg 1536w, http://18.204.15.73/wp-content/uploads/2020/07/pexels-deepanker-verma-1482061-2048x1367.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />											
+										<img width="1280" height="850" src="http://18.204.15.73/wp-content/uploads/2020/07/bar-ipad-mockup-621033.jpg" alt="bar, ipad, mockup" srcset="http://18.204.15.73/wp-content/uploads/2020/07/bar-ipad-mockup-621033.jpg 1280w, http://18.204.15.73/wp-content/uploads/2020/07/bar-ipad-mockup-621033-300x199.jpg 300w, http://18.204.15.73/wp-content/uploads/2020/07/bar-ipad-mockup-621033-1024x680.jpg 1024w, http://18.204.15.73/wp-content/uploads/2020/07/bar-ipad-mockup-621033-768x510.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />											
 			<h5>Google I/O </h5><p>Explore the Google products at launch in their office at California. </p>		
 			<a href="#" role="button">
 						Book Tickets
