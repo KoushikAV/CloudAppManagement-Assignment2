@@ -1,6 +1,6 @@
 ---
 ID: 802
-post_title: 'Elementor #802'
+post_title: Registration
 author: Koushik A V
 post_excerpt: ""
 layout: page
