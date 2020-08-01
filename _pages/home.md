@@ -16,7 +16,7 @@ post_date: 2020-07-30 14:29:43
 						Explore Events
 					</a>
 			<h2>Upcoming Events</h2>		
-										<img width="1280" height="640" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01011258/google-seo-search-engine-408194.jpg" alt="google, seo, search engine" />											
+										<img width="2560" height="1709" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01011613/pexels-cytonn-photography-955404-scaled.jpg" alt="" srcset="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01011613/pexels-cytonn-photography-955404-scaled.jpg 2560w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01011613/pexels-cytonn-photography-955404-300x200.jpg 300w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01011613/pexels-cytonn-photography-955404-1024x684.jpg 1024w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01011613/pexels-cytonn-photography-955404-768x513.jpg 768w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01011613/pexels-cytonn-photography-955404-1536x1025.jpg 1536w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01011613/pexels-cytonn-photography-955404-2048x1367.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />											
 			<h5>Google I/O </h5><p>Explore the Google products at launch in their office at California. </p>		
 			<a href="#" role="button">
 						Book Tickets
