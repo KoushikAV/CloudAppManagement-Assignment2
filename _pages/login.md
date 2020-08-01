@@ -9,4 +9,4 @@ published: true
 post_date: 2020-07-21 05:49:52
 ---
 <h1>Explore your page now!!</h1>		
-										<img width="796" height="1024" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01090359/smartphone-app-news-1184883-796x1024.jpg" alt="smartphone, app, news" />
+										<img width="1024" height="682" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01091019/figure-puzzle-last-part-3277579-1024x682.jpg" alt="figure, puzzle, last part" />
