@@ -9,6 +9,15 @@ published: true
 post_date: 2020-07-30 15:18:40
 ---
 <h1>Welcome user</h1>		
+			<a href="http://34.204.60.204/upcoming-events/" role="button">
+						Explore Events
+					</a>
 			<a href="#" role="button">
-						My Events
+						Invite People
+					</a>
+			<a href="#" role="button">
+						 My Events
+					</a>
+			<a href="http://34.204.60.204/create-your-events/" role="button">
+						Create new events
 					</a>
