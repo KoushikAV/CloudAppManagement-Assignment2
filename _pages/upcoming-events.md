@@ -4,7 +4,7 @@ post_title: Upcoming Events!!
 author: koushik babu
 post_excerpt: ""
 layout: page
-permalink: http://18.204.15.73/upcoming-events/
+permalink: http://34.204.60.204/upcoming-events/
 published: true
 post_date: 2020-04-13 11:18:50
 ---
