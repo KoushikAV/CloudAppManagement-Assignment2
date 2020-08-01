@@ -1,10 +1,10 @@
 ---
 ID: 693
-post_title: Your home page
+post_title: My home page
 author: Koushik A V
 post_excerpt: ""
 layout: page
-permalink: http://34.204.60.204/your-home-page/
+permalink: http://34.204.60.204/my-home-page/
 published: true
 post_date: 2020-07-30 15:18:40
 ---
