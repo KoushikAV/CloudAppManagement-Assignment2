@@ -4,7 +4,7 @@ post_title: userInvite
 author: BINOY GEORGE
 post_excerpt: ""
 layout: page
-permalink: http://18.204.15.73/userinvite/
+permalink: http://34.204.60.204/userinvite/
 published: true
 post_date: 2020-07-22 17:31:53
 ---

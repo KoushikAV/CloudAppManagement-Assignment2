@@ -4,7 +4,7 @@ post_title: Your home page
 author: Koushik A V
 post_excerpt: ""
 layout: page
-permalink: http://18.204.15.73/your-home-page/
+permalink: http://34.204.60.204/your-home-page/
 published: true
 post_date: 2020-07-30 15:18:40
 ---
