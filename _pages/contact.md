@@ -4,7 +4,7 @@ post_title: Contact
 author: Koushik A V
 post_excerpt: ""
 layout: page
-permalink: http://18.204.15.73/contact/
+permalink: http://34.204.60.204/contact/
 published: true
 post_date: 2020-04-13 11:18:48
 ---
