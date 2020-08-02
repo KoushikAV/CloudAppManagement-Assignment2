@@ -30,6 +30,6 @@ post_date: 2020-07-30 14:29:43
 										<img src="http://18.204.15.73/wp-content/uploads/2020/07/78789824-create-memories-inspirational-poster.jpg" title="" alt="" />											
 			<h2>Create your own Events</h2>		
 		<p>Creating events is like creating memories for you lifetime which will help you to remember what you have achieved in your life</p>		
-			<a href="http://34.204.60.204/login/" role="button">
+			<a href="http://34.204.60.204/create-your-events/?preview_id=714&#038;preview_nonce=935f0f5af6&#038;preview=true" role="button">
 						Create Memories
 					</a>
