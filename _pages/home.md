@@ -27,7 +27,7 @@ post_date: 2020-07-30 14:29:43
 			<a href="https://confrenzo.com/register-for-event/" role="button">
 						Register
 					</a>
-		<p>                                                <a href="https://confrenzo.com/register-for-event/">https://confrenzo.com/register-for-event/</a>Get Ticket  €20-€25 </p>		
+		<p>                                                Get Ticket  €20-€25 </p>		
 										<img width="1024" height="1024" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster-1024x1024.jpg" alt="" srcset="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster-1024x1024.jpg 1024w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster-300x300.jpg 300w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster-150x150.jpg 150w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster-768x768.jpg 768w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster.jpg 1300w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 										<img src="http://18.204.15.73/wp-content/uploads/2020/07/78789824-create-memories-inspirational-poster.jpg" title="" alt="" />											
 			<h2>Create your own Events</h2>		
