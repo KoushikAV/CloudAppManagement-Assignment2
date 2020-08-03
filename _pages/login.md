@@ -9,4 +9,4 @@ published: true
 post_date: 2020-07-21 05:49:52
 ---
 <h1>Explore your home of events</h1>		
-		New User?<a href="http://34.204.60.204/registration/">Register here</a>
+		New User?<a href="https://confrenzo.com/registration/">Register here</a>
