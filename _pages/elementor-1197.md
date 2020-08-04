@@ -23,3 +23,8 @@ post_date: 2020-08-04 02:00:17
 							<img width="1024" height="723" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/04015849/attachalift-new-concept-arms-chair-titane-design-1544685-1024x723.jpg" alt="attachalift, new concept arms chair, titane design" />								</a>
 											<figcaption>Product Launch</figcaption>
 										</figure>
+							<figure>
+											<a href="http://34.204.60.204/asp-products/networking-event/">
+							<img width="1024" height="682" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/04020044/feedback-confirming-businessmen-2990424-1024x682.jpg" alt="feedback, confirming, businessmen" />								</a>
+											<figcaption>Networking Event</figcaption>
+										</figure>
