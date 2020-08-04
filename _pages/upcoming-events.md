@@ -12,7 +12,7 @@ post_date: 2020-04-13 11:18:50
 </h1>		
 			<h2>Google I/O</h2>		
 		<p>Explore the Google products at launch in their office at California.</p>		
-			<a href="https://confrenzo.com/registration/" role="button">
+			<a href="https://confrenzo.com/register-for-event/" role="button">
 						Register 
 					</a>
 		<p>It's Free!!</p>		
@@ -21,13 +21,13 @@ post_date: 2020-04-13 11:18:50
 										<img width="1024" height="768" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-1024x768.jpg" alt="" srcset="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-1024x768.jpg 1024w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-300x225.jpg 300w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-768x576.jpg 768w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-1536x1152.jpg 1536w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h2>Apple</h2>		
 		<p>Explore Apple products at launch in their spectacular cupertino Office</p>		
-			<a href="https://confrenzo.com/registration/" role="button">
+			<a href="https://confrenzo.com/register-for-event/" role="button">
 						Register
 					</a>
 		<p>It's Free!!</p>		
 			<h2>Samsung Unpacked</h2>		
 		<p>Take a chance to join Samsung in unveiling their all new Note device along with other smart accessories at launch coming Aug 5,2020</p>		
-			<a href="https://confrenzo.com/registration/" role="button">
+			<a href="https://confrenzo.com/register-for-event/" role="button">
 						Register
 					</a>
 		<p>It's Free!!</p>		
