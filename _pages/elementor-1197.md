@@ -1,0 +1,25 @@
+---
+ID: 1197
+post_title: 'Elementor #1197'
+author: Koushik A V
+post_excerpt: ""
+layout: page
+permalink: http://34.204.60.204/elementor-1197/
+published: true
+post_date: 2020-08-04 02:01:27
+---
+<figure>
+											<a href="http://34.204.60.204/asp-products/corporate-event/">
+							<img width="1024" height="681" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/04014325/table-table-setting-conference-1203381-1024x681.jpg" alt="table, table setting, conference" />								</a>
+											<figcaption>CORPORATE EVENTS</figcaption>
+										</figure>
+							<figure>
+											<a href="http://34.204.60.204/asp-products/education-event/">
+							<img width="1024" height="682" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/04014923/library-books-dublin-2507902-1024x682.jpg" alt="library, books, dublin" />								</a>
+											<figcaption>EDUCATION EVENT</figcaption>
+										</figure>
+							<figure>
+											<a href="http://34.204.60.204/asp-products/product-launch/">
+							<img width="1024" height="723" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/04015849/attachalift-new-concept-arms-chair-titane-design-1544685-1024x723.jpg" alt="attachalift, new concept arms chair, titane design" />								</a>
+											<figcaption>Product Launch</figcaption>
+										</figure>
