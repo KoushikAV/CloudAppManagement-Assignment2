@@ -33,3 +33,4 @@ post_date: 2020-07-30 14:29:43
 			<a href="https://confrenzo.com/create-your-events/" role="button">
 						Create Memories
 					</a>
+Check our <a href="https://www.termsandconditionsgenerator.com/live.php?token=0aITAF88I1WFVm2YV2M83ujSIZoSBoT4">Terms and Conditions</a>
