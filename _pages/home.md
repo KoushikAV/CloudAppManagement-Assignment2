@@ -21,7 +21,7 @@ post_date: 2020-07-30 14:29:43
 			<a href="https://confrenzo.com/register-for-event/" role="button">
 						Register
 					</a>
-		<p>Register now for Just €75</p>		
+		<p>Register Now for Just&nbsp;€75</p>		
 										<img width="1024" height="768" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-1024x768.jpg" alt="" srcset="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-1024x768.jpg 1024w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-300x225.jpg 300w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-768x576.jpg 768w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-1536x1152.jpg 1536w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h5>Apple Event</h5><p>Explore Apple products at launch in their spectacular cupertino Office</p>		
 			<a href="https://confrenzo.com/register-for-event/" role="button">
