@@ -8,9 +8,9 @@ permalink: http://34.204.60.204/signing/
 published: true
 post_date: 2020-08-04 13:56:14
 ---
-<!-- wp:paragraph -->
-<p>[user_registration_form id="1288"]</p>
-<!-- /wp:paragraph -->
+<!-- wp:tw/form-maker {"shortcode":"[Form id=\u00226\u0022]","popupOpened":false,"notInitial":true} -->
+[Form id="6"]
+<!-- /wp:tw/form-maker -->
 
 <!-- wp:image {"id":1290,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/04134629/doors-choices-choose-1767564-1024x546.jpg" alt="doors, choices, choose" class="wp-image-1290"/></figure>
