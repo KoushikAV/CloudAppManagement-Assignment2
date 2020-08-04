@@ -1,0 +1,17 @@
+---
+ID: 1284
+post_title: Explore your home of Events
+author: Koushik A V
+post_excerpt: ""
+layout: page
+permalink: http://34.204.60.204/signing/
+published: true
+post_date: 2020-08-04 13:56:14
+---
+<!-- wp:paragraph -->
+<p>[user_registration_form id="1288"]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1290,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/04134629/doors-choices-choose-1767564-1024x546.jpg" alt="doors, choices, choose" class="wp-image-1290"/></figure>
+<!-- /wp:image -->
