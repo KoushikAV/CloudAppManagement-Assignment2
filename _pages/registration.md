@@ -9,4 +9,4 @@ published: true
 post_date: 2020-07-30 22:48:23
 ---
 <h1><br><br><br>Register With US!!</h1>		
-		Already have account? Feel free to <a href="http://34.204.60.204/login/">Login here!</a>
+		<p>Already have account? Feel free to <a href="https://confrenzo.com/signin/">Login here!</a></p>
