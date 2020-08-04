@@ -8,7 +8,8 @@ permalink: http://34.204.60.204/type-of-event/
 published: true
 post_date: 2020-08-04 02:00:17
 ---
-<figure>
+<h2>Select your event </h2>		
+							<figure>
 											<a href="http://34.204.60.204/asp-products/corporate-event/">
 							<img width="1024" height="681" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/04014325/table-table-setting-conference-1203381-1024x681.jpg" alt="table, table setting, conference" />								</a>
 											<figcaption>CORPORATE EVENT</figcaption>
