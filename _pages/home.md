@@ -21,13 +21,13 @@ post_date: 2020-07-30 14:29:43
 			<a href="https://confrenzo.com/register-for-event/" role="button">
 						Register
 					</a>
-		<p>Register Now for Just&nbsp;€75</p>		
+		<p>Register Now for Just&nbsp;€40</p>		
 										<img width="1024" height="768" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-1024x768.jpg" alt="" srcset="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-1024x768.jpg 1024w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-300x225.jpg 300w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-768x576.jpg 768w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-1536x1152.jpg 1536w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01085604/pexels-jess-bailey-designs-788946-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h5>Apple Event</h5><p>Explore Apple products at launch in their spectacular cupertino Office</p>		
 			<a href="https://confrenzo.com/register-for-event/" role="button">
 						Register
 					</a>
-		<p>                                     Register Now for just  €75</p>		
+		<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Register Now for just&nbsp; €40</p>		
 										<img width="1024" height="1024" src="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster-1024x1024.jpg" alt="" srcset="https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster-1024x1024.jpg 1024w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster-300x300.jpg 300w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster-150x150.jpg 150w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster-768x768.jpg 768w, https://confrenzo.s3.amazonaws.com/wp-content/uploads/2020/08/01094328/78789824-create-memories-inspirational-poster.jpg 1300w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 										<img src="http://18.204.15.73/wp-content/uploads/2020/07/78789824-create-memories-inspirational-poster.jpg" title="" alt="" />											
 			<h2>Create your own Events</h2>		
