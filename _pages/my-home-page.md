@@ -18,6 +18,6 @@ post_date: 2020-07-30 15:18:40
 			<a href="#" role="button">
 						My Events              
 					</a>
-			<a href="http://34.204.60.204/create-your-events/" role="button">
+			<a href="https://confrenzo.com/create-your-events/" role="button">
 						Create new events
 					</a>
