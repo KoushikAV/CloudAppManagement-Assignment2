@@ -1,10 +1,10 @@
 ---
 ID: 1284
-post_title: Explore your home of Events
+post_title: Signin
 author: Koushik A V
 post_excerpt: ""
 layout: page
-permalink: http://34.204.60.204/signing/
+permalink: http://34.204.60.204/signin/
 published: true
 post_date: 2020-08-04 13:56:14
 ---
