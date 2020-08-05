@@ -30,7 +30,7 @@ post_date: 2020-07-30 14:29:43
 										<img src="http://18.204.15.73/wp-content/uploads/2020/07/78789824-create-memories-inspirational-poster.jpg" title="" alt="" />											
 			<h2>Create your own Events</h2>		
 		<p>Creating events is like creating memories for you lifetime which will help you to remember what you have achieved in your life</p>		
-			<a href="https://confrenzo.com/create-your-events/" role="button">
+			<a href="https://confrenzo.com/signin/" role="button">
 						Create Memories
 					</a>
 Check our <a href="https://www.termsandconditionsgenerator.com/live.php?token=0aITAF88I1WFVm2YV2M83ujSIZoSBoT4">Terms and Conditions</a>
