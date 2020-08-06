@@ -8,7 +8,7 @@ permalink: http://confrenzo.com/my-home-page/
 published: true
 post_date: 2020-07-30 15:18:40
 ---
-<h1>Welcome</h1>		
+<h1>Welcome </h1>		
 			<a href="https://confrenzo.com/upcoming-events/" role="button">
 						Explore Events
 					</a>
