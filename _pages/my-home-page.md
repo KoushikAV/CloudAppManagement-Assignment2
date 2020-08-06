@@ -12,12 +12,6 @@ post_date: 2020-07-30 15:18:40
 			<a href="https://confrenzo.com/upcoming-events/" role="button">
 						Explore Events
 					</a>
-			<a href="#" role="button">
-						Invite People
-					</a>
-			<a href="#" role="button">
-						My Events              
-					</a>
 			<a href="https://confrenzo.com/create-your-events/" role="button">
 						Create new events
 					</a>
